@@ -16,4 +16,5 @@ You can find me across my socials or reach out at **jyothirraghavalu369@gmail.co
 
 If my work helps you, consider supporting my open-source work.  
 
+---
 *Fact: At the end, everything is static.*
