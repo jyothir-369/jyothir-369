@@ -1,234 +1,181 @@
-<!-- ============================================================
-     GITHUB PROFILE README — jyothir-369
-     Style: Terminal × Professional AI Engineer Portfolio
-     Optimized for: Dark Mode · Recruiters · OSS Contributors
-     ============================================================ -->
-
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║   $ whoami                                                       ║
-║   > Jyothir Raghavalu Bhogi                                      ║
-║                                                                  ║
-║   $ cat role.txt                                                 ║
-║   > AI/ML Engineer · Data Engineer · Full-Stack Builder          ║
-║                                                                  ║
-║   $ uname -l                                                     ║
-║   > Hyderabad, India                                             ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+![banner](https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,100:111111&height=3&section=header)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Building+AI+systems+at+production+scale.;RAG+%7C+Multi-Agent+%7C+Computer+Vision+%7C+NLP;Research-driven.+System-focused.+Impact-first.)](https://git.io/typing-svg)
+</div>
 
-<!-- Replace "jyothir-369" with your GitHub username if needed -->
-![](https://komarev.com/ghpvc/?username=jyothir-369&color=00ff9c&style=flat-square&label=profile+views)
+<div align="center">
+<br/>
+
+# JYOTHIR RAGHAVALU BHOGI
+
+**`AI/ML Engineer  ·  Data Engineer  ·  Systems Builder`**
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/-Portfolio-0a0a0a?style=flat&logo=safari&logoColor=white&labelColor=0a0a0a)](https://jyothir-369.github.io/BJR/)&ensp;[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0a0a0a?style=flat&logo=linkedin&logoColor=0A66C2&labelColor=0a0a0a)](https://linkedin.com/in/bhogi-jyothir-raghavalu)&ensp;[![X](https://img.shields.io/badge/-@BhogiJyothir-0a0a0a?style=flat&logo=x&logoColor=white&labelColor=0a0a0a)](https://twitter.com/BhogiJyothir)&ensp;[![LeetCode](https://img.shields.io/badge/-LeetCode-0a0a0a?style=flat&logo=leetcode&logoColor=FFA116&labelColor=0a0a0a)](https://leetcode.com/u/jyothir-369)&ensp;[![Email](https://img.shields.io/badge/-Email-0a0a0a?style=flat&logo=gmail&logoColor=EA4335&labelColor=0a0a0a)](mailto:jyothirraghavalu369@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=jyothir-369&color=6e40c9&style=flat&label=profile+views)
+
+<br/>
 
 </div>
 
 ---
 
-```bash
-$ cat about.md
-```
+I build AI systems that operate at the intersection of **scale** and **meaning** — from clinical RAG pipelines and multi-agent orchestration to 3D point cloud processing and Braille accessibility tooling.
+
+My work is grounded in a single conviction: **intelligence that cannot be explained, audited, or accessed by everyone is incomplete.**
+
+Currently based in **Hyderabad, India**, focused on Generative AI product ecosystems, scalable backend architecture, and public-service AI applications.
+
+---
+
+### WORK
 
 ```
-Name     : Jyothir Raghavalu Bhogi
-Role     : Software Engineer — AI/ML · Data Engineering · Full-Stack Systems
-Location : Hyderabad, India
-Status   : Open to impactful collaborations and engineering roles
-
-Focus    : Building intelligent systems that are scalable, auditable, and inclusive.
-           From clinical RAG pipelines to 3D point cloud processing — I work
-           across the full depth of the AI stack.
-
-Principle: Systems should be explainable. Intelligence should be accessible.
-           Complexity is not sophistication.
+flickDone                    Data Engineer Intern
+─────────────────────────────────────────────────────────────────
+Automated data validation pipelines  ·  Hindi–Bharati Braille NLP
+datasets  ·  Accessibility infrastructure for assistive technology
+Stack: Python · Data Engineering · NLP · Pipeline Automation
 ```
 
 ---
 
-```bash
-$ cat experience.log
-```
+### RESEARCH
+
+> **Driver Fatigue Detection Using Machine Learning**
+> *IEEE Manuscript, 2024 — 96.8% classification accuracy*
+> Computer Vision · Safety-Critical AI · Physiological Feature Extraction
+
+---
+
+### RECOGNITION
+
+| · | 1st Place — Hackathon 2025 |
+|---|---|
+| · | IEEE Research Author — Driver Fatigue Detection |
+| · | Hindi–Bharati Braille NLP Pipeline — Assistive Technology |
+
+---
+
+### PROJECTS
+
+<!-- Replace repo links: https://github.com/jyothir-369/REPO-NAME -->
+
+<table>
+<thead>
+<tr>
+<th align="left">Project</th>
+<th align="left">What it does</th>
+<th align="left">Stack</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://github.com/jyothir-369/endee_clinical_rag_assistant"><b>endee · clinical rag</b></a></td>
+<td>RAG assistant for medical document Q&A with auditable LLM reasoning</td>
+<td><code>LangChain</code> <code>FastAPI</code> <code>ChromaDB</code></td>
+</tr>
+<tr>
+<td><a href="https://github.com/jyothir-369/hive"><b>hive</b></a></td>
+<td>Multi-agent task orchestration for distributed AI workloads</td>
+<td><code>Python</code> <code>Agents</code> <code>AsyncIO</code></td>
+</tr>
+<tr>
+<td><a href="https://github.com/jyothir-369/CAT.AI"><b>CAT.AI</b></a></td>
+<td>Conversational AI toolkit — multi-turn dialogue, tool-calling, agent flows</td>
+<td><code>LangChain</code> <code>OpenAI</code></td>
+</tr>
+<tr>
+<td><a href="https://github.com/jyothir-369/point-cloud-processing-open3d"><b>point cloud · open3d</b></a></td>
+<td>3D pipeline — filtering, ICP registration, BPA surface reconstruction</td>
+<td><code>Open3D</code> <code>NumPy</code> <code>OpenCV</code></td>
+</tr>
+<tr>
+<td><a href="https://github.com/jyothir-369/geospatial-deep-learning-segmentation"><b>geospatial · segmentation</b></a></td>
+<td>Deep learning segmentation on satellite and aerial imagery</td>
+<td><code>PyTorch</code> <code>U-Net</code> <code>GDAL</code></td>
+</tr>
+<tr>
+<td><a href="https://github.com/jyothir-369/smart-traffic-ai-system"><b>smart traffic · ai</b></a></td>
+<td>Real-time object detection with adaptive signal control</td>
+<td><code>YOLOv8</code> <code>OpenCV</code> <code>FastAPI</code></td>
+</tr>
+<tr>
+<td><a href="https://github.com/jyothir-369/braille-ai-pipeline"><b>braille · ai pipeline</b></a></td>
+<td>Hindi–Bharati Braille NLP translation for visually impaired users</td>
+<td><code>Transformers</code> <code>NLP</code> <code>Python</code></td>
+</tr>
+<tr>
+<td><a href="https://github.com/jyothir-369/questionnaire-ai"><b>questionnaire · ai</b></a></td>
+<td>Adaptive LLM-powered questionnaire and Q&A generation engine</td>
+<td><code>LangChain</code> <code>FastAPI</code></td>
+</tr>
+<tr>
+<td><a href="https://github.com/jyothir-369/ai-sports-odds-platform"><b>sports odds · ml</b></a></td>
+<td>ML-driven prediction platform with real-time data ingestion</td>
+<td><code>scikit-learn</code> <code>PostgreSQL</code></td>
+</tr>
+</tbody>
+</table>
+
+---
+
+### STACK
+
+`Python` &ensp; `FastAPI` &ensp; `PyTorch` &ensp; `TensorFlow` &ensp; `LangChain` &ensp; `HuggingFace`
+`OpenCV` &ensp; `Open3D` &ensp; `NumPy` &ensp; `Pandas` &ensp; `scikit-learn` &ensp; `YOLOv8`
+`ChromaDB` &ensp; `Pinecone` &ensp; `FAISS` &ensp; `pgvector`
+`PostgreSQL` &ensp; `Redis` &ensp; `Docker` &ensp; `AWS` &ensp; `GitHub Actions`
+`TypeScript` &ensp; `SQL` &ensp; `REST APIs` &ensp; `AsyncIO`
+
+---
+
+### NOW
 
 ```
-[2024]  Data Engineer Intern @ flickDone
-        ├── Engineered automated data validation pipelines
-        ├── Curated Hindi–Bharati Braille NLP datasets
-        ├── Advanced accessibility pipelines for assistive technology
-        └── Stack: Python · Data Engineering · NLP · Pipeline Automation
+Building     multi-agent systems with persistent memory and tool-use
+             scalable RAG pipelines for domain-specific corpora
+             clinical AI with verifiable, auditable reasoning chains
 
-[2025]  IEEE Research Author
-        ├── Driver Fatigue Detection using ML
-        ├── Achieved 96.8% classification accuracy
-        └── Domain: Computer Vision · Safety-Critical AI
+Researching  LLM fine-tuning and alignment techniques
+             3D scene understanding — NeRF and Gaussian Splatting
+             AI governance for public-sector deployment
 
-[2025]  Hackathon 2025 — 1st Place
-        └── Competitive AI/ML system design under time constraint
+Committed to ethical AI tooling for Indian public-service contexts
+             open-source NLP for low-resource Indic languages
+             production-grade AI for healthcare and urban infrastructure
 ```
 
 ---
 
-```bash
-$ ls -la tech_stack/
-```
-
-```
-drwxr-xr-x  languages/
-   python           typescript         sql
-
-drwxr-xr-x  ai_ml/
-   pytorch          tensorflow         scikit-learn
-   huggingface      langchain          openai-api
-   opencv           open3d             yolov8
-
-drwxr-xr-x  vector_search/
-   chromadb         pinecone           faiss
-   pgvector
-
-drwxr-xr-x  backend/
-   fastapi          postgresql         redis
-   rest-api         async-python
-
-drwxr-xr-x  infra/
-   docker           git                aws
-   linux            github-actions
-
-drwxr-xr-x  domains/
-   rag-systems      multi-agent        ocr-pipelines
-   nlp              computer-vision    data-engineering
-   3d-processing    geospatial-ai
-```
-
----
-
-```bash
-$ cat projects/index.md
-```
-
-| repository | description | stack | domain |
-|------------|-------------|-------|--------|
-| [endee_clinical_rag_assistant](https://github.com/jyothir-369/endee_clinical_rag_assistant) | Clinical RAG assistant for medical document Q&A with auditable LLM outputs | `LangChain` `FastAPI` `ChromaDB` | Clinical AI |
-| [point-cloud-processing-open3d](https://github.com/jyothir-369/point-cloud-processing-open3d) | 3D point cloud pipeline — filtering, ICP registration, BPA surface reconstruction | `Open3D` `NumPy` `OpenCV` | Computer Vision |
-| [geospatial-deep-learning-segmentation](https://github.com/jyothir-369/geospatial-deep-learning-segmentation) | Deep learning segmentation on satellite imagery for geospatial analysis | `PyTorch` `U-Net` `GDAL` | Geospatial AI |
-| [smart-traffic-ai-system](https://github.com/jyothir-369/smart-traffic-ai-system) | Real-time traffic management with object detection and adaptive signal control | `YOLOv8` `OpenCV` `FastAPI` | Smart Cities |
-| [CAT.AI](https://github.com/jyothir-369/CAT.AI) | Conversational AI toolkit with multi-turn dialogue and agent orchestration | `LangChain` `OpenAI` `Python` | Generative AI |
-| [braille-ai-pipeline](https://github.com/jyothir-369/braille-ai-pipeline) | Hindi–Bharati Braille NLP translation pipeline for assistive technology | `Python` `Transformers` `NLP` | Inclusive AI |
-| [ai-sports-odds-platform](https://github.com/jyothir-369/ai-sports-odds-platform) | ML-driven sports analytics and odds prediction with real-time data ingestion | `FastAPI` `scikit-learn` `PostgreSQL` | Predictive ML |
-| [questionnaire-ai](https://github.com/jyothir-369/questionnaire-ai) | Adaptive LLM-powered questionnaire and intelligent Q&A generation engine | `LangChain` `OpenAI` `FastAPI` | EdTech AI |
-| [hive](https://github.com/jyothir-369/hive) | Multi-agent task orchestration framework for distributed AI workloads | `Python` `Agents` `AsyncIO` | Multi-Agent |
-
----
-
-```bash
-$ cat current_build.py
-```
-
-```python
-current_build = {
-    "active": [
-        "multi-agent systems with persistent memory and tool-use",
-        "scalable RAG pipelines for domain-specific corpora",
-        "clinical AI assistants with verifiable reasoning chains",
-    ],
-    "researching": [
-        "LLM fine-tuning and alignment techniques",
-        "3D scene understanding — NeRF and Gaussian Splatting",
-        "AI governance frameworks for public-sector deployment",
-    ],
-    "mission": [
-        "ethical AI tooling for Indian public service contexts",
-        "open-source NLP for low-resource Indic languages",
-        "production-grade AI for healthcare and urban infrastructure",
-    ],
-}
-```
-
----
-
-```bash
-$ cat research.bib
-```
-
-```bibtex
-@article{bhogi2024fatigue,
-  title     = {Driver Fatigue Detection Using Machine Learning},
-  author    = {Bhogi, Jyothir Raghavalu},
-  journal   = {IEEE Manuscript},
-  year      = {2024},
-  accuracy  = {96.8%},
-  domain    = {Computer Vision, Safety-Critical AI},
-  status    = {Authored}
-}
-```
-
-> Research interests: `Ethical AI` · `Inclusive NLP` · `AI for Public Safety` · `Human-Centered ML`
-
----
-
-```bash
-$ cat stats/github.sh && bash stats/github.sh
-```
+### STATS
 
 <div align="center">
 
-<!-- Replace "jyothir-369" in all stat image URLs below -->
+<!-- Replace "jyothir-369" in all URLs below with your actual GitHub username -->
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=jyothir-369&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c&text_color=c9d1d9"/>
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=jyothir-369&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=6e40c9"/>
+<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyothir-369&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&langs_count=8"/>
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyothir-369&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff9c&text_color=c9d1d9&langs_count=8"/>
+<br/>
 
-</div>
+<img src="https://streak-stats.demolab.com?user=jyothir-369&theme=github-dark-blue&hide_border=true&background=0d1117&ring=6e40c9&fire=6e40c9&currStreakLabel=c9d1d9&sideLabels=8b949e&dates=8b949e"/>
 
-<div align="center">
+<br/>
 
-<img src="https://streak-stats.demolab.com?user=jyothir-369&theme=dark&hide_border=true&background=0d1117&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c&dates=8b949e"/>
-
-</div>
-
-<div align="center">
-
-<!-- Activity graph -->
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jyothir-369&theme=react-dark&hide_border=true&area=true&area_color=00ff9c&line=00ff9c&point=ffffff&bg_color=0d1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=jyothir-369&theme=matrix&no-frame=true&row=1&column=6&margin-w=8&no-bg=true"/>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jyothir-369&theme=github-compact&hide_border=true&bg_color=0d1117&line=6e40c9&point=c9d1d9&area=true&area_color=6e40c9&color=8b949e)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-```bash
-$ cat contact.json
-```
-
-```json
-{
-  "portfolio" : "https://jyothir-369.github.io/BJR/",
-  "linkedin"  : "https://linkedin.com/in/bhogi-jyothir-raghavalu",
-  "twitter"   : "https://twitter.com/BhogiJyothir",
-  "leetcode"  : "https://leetcode.com/u/jyothir-369",
-  "email"     : "jyothirraghavalu369@gmail.com",
-  "github"    : "https://github.com/jyothir-369",
-  "location"  : "Hyderabad, India",
-  "open_to"   : ["AI engineering roles", "research collaborations", "OSS contributions"]
-}
-```
-
----
-
-```bash
-$ echo "EOF — session terminated."
-> EOF — session terminated.
-> Connection closed by remote host.
-```
-
 <div align="center">
-<sub>designed for dark mode · built for engineers · open to the world</sub>
+
+`Hyderabad, India` &ensp;·&ensp; `open to roles, research, and meaningful collabs`
+
+**[jyothir-369.github.io/BJR](https://jyothir-369.github.io/BJR/)**
+
 </div>
