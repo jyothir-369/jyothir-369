@@ -438,23 +438,6 @@ A complete Python toolkit for 3D point cloud processing demonstrating the full p
 
 ---
 
-## 🗺️ India-Focused AI Work
-
-A significant portion of my work is focused on building AI systems that address challenges unique to the Indian context:
-
-| Initiative | Problem Addressed | Status |
-|------------|-------------------|--------|
-| Hindi–Bharati Braille NLP | Accessibility for visually impaired Hindi speakers | ✅ Shipped |
-| Driver Fatigue Detection | Road safety — India has one of the highest road accident rates globally | ✅ Published |
-| Smart Traffic AI | Urban congestion management in high-density Indian cities | ✅ Built |
-| Clinical RAG Assistant | Healthcare AI for Indian medical document formats | ✅ Active |
-| Geospatial Segmentation | Urban planning and land-use analysis for Indian cities | 🔄 Ongoing |
-| Indic Language NLP Toolkit | Low-resource language processing for regional languages | 📌 Planned |
-
-> India presents unique AI challenges: linguistic diversity (22 scheduled languages), infrastructure constraints, high-density urban environments, and a massive underserved population. Building AI that works here requires thinking beyond English-centric, cloud-native assumptions.
-
----
-
 ## 🧩 Problem-Solving & Competitive
 
 <div align="center">
