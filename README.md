@@ -175,39 +175,19 @@ I believe open source is infrastructure for human progress. My contributions foc
 
 
 
----
 
-## 📊 GitHub Stats
 
-<div align="center">
 
-<!-- Replace "jyothir-369" with your GitHub username in all stat URLs below -->
 
-<img height="180em" src="[https://github-readme-stats.vercel.app/api?username=jyothir-369&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true](https://jyothir-369.github.io/BJR/)"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyothir-369&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
-</div>
 
-<div align="center">
 
-<!-- GitHub Streak Stats -->
-<img src="https://streak-stats.demolab.com?user=jyothir-369&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
 
-</div>
 
-<div align="center">
 
-<!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=jyothir-369&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" alt="GitHub Trophies"/>
 
-</div>
 
-<div align="center">
 
-<!-- Activity Graph — replace "jyothir-369" -->
-[![Jyothir's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jyothir-369&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
 
 
 
