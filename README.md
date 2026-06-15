@@ -17,7 +17,6 @@
 <br/>
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=jyothir-369&label=Profile+Views&color=7C3AED&style=flat-square)
-![GitHub followers](https://img.shields.io/github/followers/jyothir-369?label=Followers&style=flat-square&color=7C3AED)
 
 </div>
 
@@ -34,7 +33,7 @@ My engineering philosophy: **intelligence should be accessible, inclusive, and a
 - 📄 **IEEE research author** — driver fatigue detection at **96.8% accuracy**
 - 🏆 **1st Place — Hackathon 2025**
 - 🌏 Based in **Hyderabad, India** — focused on AI for public service and India-scale impact
-- 💬 Ask me about: `RAG` `Multi-Agent AI` `Vector Databases` `Computer Vision` `OCR Pipelines`
+- 💬 Ask me about: `RAG` `Multi-Agent AI` `Vector Databases` `Computer Vision` `NLP`
 
 > *"At the end, everything is static — so build systems that make the dynamic parts count."*
 
@@ -156,89 +155,13 @@ current_focus = {
 
 ---
 
-## 🌍 Domain Expertise
-
-| Domain | Level | Key Tools |
-|--------|-------|-----------|
-| 🤖 Generative AI & LLMs | Advanced | LangChain, OpenAI, RAG, Prompt Engineering |
-| 🔍 Information Retrieval | Advanced | ChromaDB, FAISS, pgvector, Hybrid Search |
-| 👁️ Computer Vision | Proficient | OpenCV, YOLOv8, Open3D, PyTorch Vision |
-| 🗣️ NLP & Text Processing | Proficient | HuggingFace, Transformers, SpaCy, NLTK |
-| 🗄️ Data Engineering | Proficient | Airflow, Kafka, ETL/ELT, Data Contracts |
-| 🌐 Backend Systems | Proficient | FastAPI, PostgreSQL, Redis, Docker |
-| 🛰️ Geospatial AI | Growing | GDAL, Rasterio, U-Net, Satellite Imagery |
-| 🤝 Multi-Agent Systems | Growing | Agent Orchestration, Tool-Use, Memory |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=jyothir-369&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyothir-369&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=jyothir-369&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=jyothir-369&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" alt="GitHub Trophies"/>
-
-</div>
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jyothir-369&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
 ## 🌱 Open Source Philosophy
 
 I treat open source as **infrastructure for shared human progress** — not a side project.
 
 Every repository here is built with three standards: documentation that doesn't assume, code that can be extended, and problems worth solving.
 
-Specific focus areas:
-- Open-source NLP for low-resource Indic languages
-- Accessible AI pipelines for limited-infrastructure environments
-- Braille and assistive technology that works for users who need it most
-
 > *"Open source isn't a side project. It's a commitment to shared knowledge."*
-
----
-
-## 🗺️ India-Focused AI Work
-
-| Initiative | Problem Addressed | Status |
-|------------|-------------------|--------|
-| Hindi–Bharati Braille NLP | Accessibility for visually impaired Hindi speakers | ✅ Shipped |
-| Driver Fatigue Detection | Road safety in one of the world's highest-accident-rate countries | ✅ Published |
-| Smart Traffic AI | Urban congestion in high-density Indian cities | ✅ Built |
-| Clinical RAG Assistant | Healthcare AI for Indian medical workflows | ✅ Active |
-| Geospatial Segmentation | Urban planning and land-use analysis | 🔄 Ongoing |
-| Indic Language NLP Toolkit | Low-resource processing for regional Indian languages | 📌 Planned |
-
----
-
-## 💡 Engineering Principles
-
-```
-01  Explainability first, performance second.
-02  A system no one can audit is a system no one should trust.
-03  Accessibility is not a feature — it is the baseline.
-04  Data quality upstream saves ten debugging hours downstream.
-05  The model is not the product. The system around the model is.
-06  Ship early, instrument everything, iterate with data.
-07  Build for the edge case user — they need it most.
-```
 
 ---
 
@@ -255,13 +178,9 @@ Specific focus areas:
 | 📧 Email | [jyothirraghavalu369@gmail.com](mailto:jyothirraghavalu369@gmail.com) |
 | 📍 Location | Hyderabad, India 🇮🇳 |
 
-</div>
-
-<div align="center">
-
 <br/>
 
-`Open to AI/ML roles` &nbsp;·&nbsp; `Research collaborations` &nbsp;·&nbsp; `Open-source contributions` &nbsp;·&nbsp; `Public-service AI`
+`Open to AI/ML roles` &nbsp;·&nbsp; `Research collaborations` &nbsp;·&nbsp; `Open-source contributions`
 
 <br/>
 
