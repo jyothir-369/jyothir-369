@@ -30,7 +30,6 @@ My engineering philosophy: **intelligence should be accessible, inclusive, and a
 
 - 🔭 Currently building **Generative AI ecosystems** — multi-agent architectures and RAG pipelines
 - 🧩 Ex **Data Engineer Intern @ flickDone** — automated data validation pipelines, Hindi–Bharati Braille NLP datasets
-- 📄 **IEEE research author** — driver fatigue detection at **96.8% accuracy**
 - 🏆 **1st Place — Hackathon 2025**
 - 🌏 Based in **Hyderabad, India** — focused on AI for public service and India-scale impact
 - 💬 Ask me about: `RAG` `Multi-Agent AI` `Vector Databases` `Computer Vision` `NLP`
