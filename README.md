@@ -93,27 +93,7 @@ My engineering philosophy: **intelligence should be accessible, inclusive, and a
 | [📋 **questionnaire-ai**](https://github.com/jyothir-369/questionnaire-ai) | Adaptive LLM-powered questionnaire and Q&A generation engine | `LangChain` `FastAPI` | EdTech AI |
 | [🎯 **sports-odds-ml**](https://github.com/jyothir-369/ai-sports-odds-platform) | ML-driven odds prediction with real-time data ingestion | `scikit-learn` `PostgreSQL` | Predictive ML |
 
----
 
-## 📚 Research & Publications
-
-<table>
-<tr>
-<td align="center" width="50">📄</td>
-<td>
-<strong>Driver Fatigue Detection Using Machine Learning</strong><br/>
-<em>IEEE Manuscript — 2024/2025</em><br/>
-Real-time fatigue recognition pipeline using computer vision and physiological features — facial landmarks, eye aspect ratio, head pose estimation.<br/><br/>
-<img src="https://img.shields.io/badge/Accuracy-96.8%25-brightgreen?style=flat-square"/>
-<img src="https://img.shields.io/badge/Publisher-IEEE-00629B?style=flat-square&logo=ieee&logoColor=white"/>
-<img src="https://img.shields.io/badge/Domain-Computer%20Vision-5C3EE8?style=flat-square"/>
-</td>
-</tr>
-</table>
-
-> 🔬 Research interests: `Ethical AI` · `Inclusive NLP` · `Explainable AI` · `AI for Public Safety` · `Low-Resource Language Models`
-
----
 
 ## 💼 Experience
 
