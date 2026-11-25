@@ -113,7 +113,6 @@ flickDone                                        Data Engineer Intern
 | | Achievement | Year |
 |--|-------------|------|
 | 🥇 | **1st Place — Hackathon 2025** | 2025 |
-| 📄 | **IEEE Manuscript** — Driver Fatigue Detection, 96.8% accuracy | 2024/25 |
 | ♿ | **Hindi–Bharati Braille NLP Pipeline** — assistive tech for visually impaired | 2024 |
 
 ---
